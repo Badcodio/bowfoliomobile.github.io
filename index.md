@@ -74,10 +74,10 @@ $ expo start
 ```
 
 If all goes well, you will be taken to the Expo DevTools on your web browser which is running on a port on your localhost.  To run the app with live reloading you can:
-  • run it on a mobile emulator
-  • run it on your web browser
-  • Send a link to your phone with email.
-  • Scan the QR code with the Expo app (Android) or the Camera app (iOS).
+ - run it on a mobile emulator
+ - run it on your web browser
+ - send a link to your phone with email.
+ - scan the QR code with the Expo app (Android) or the Camera app (iOS).
 
 
 
