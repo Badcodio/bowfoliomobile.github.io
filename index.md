@@ -11,17 +11,17 @@ Bowfoliomobile is the mobile implementation of the BowFolios web application tha
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the Bowfoliomobile user interface and its capabilities.
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page is presented to users when they first open the app.
 
 ![](images/landing-page.jpg)
 
 ### Index pages (Projects, Profiles, Interests)
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.  Currently, only the Profiles page is implemented.
+Bowfoliomobile provides three public pages that present the contents of the database organized in various ways.  Currently, only the Profiles page is implemented.
 
 The Profiles page shows all the current defined profiles and their associated Projects and Interests:
 
@@ -30,7 +30,7 @@ The Profiles page shows all the current defined profiles and their associated Pr
 
 ### Sign in and sign up
 
-Click on the "Login" button in the bottom right corner to go to the following page and login. You must have been previously registered with the system to use this option:
+Click on the "Log In" button in the bottom right corner to go to the following page and login:
 
 ![](images/signin-page.jpg)
 
