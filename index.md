@@ -38,12 +38,13 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ![](images/signup-page.jpg)
 
-// ### Home page
+<!---
+### Home page
 
-// After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile.  Currently, this is only a mockup:
+After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile.  Currently, this is only a mockup:
 
-// ![](images/home-page.jpg)
-
+![](images/home-page.jpg)
+--->
 
 ## Developer Guide
 
