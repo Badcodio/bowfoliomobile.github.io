@@ -17,7 +17,7 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/landing-page.jpg)
 
 ### Index pages (Projects, Profiles, Interests)
 
@@ -25,25 +25,26 @@ Bowfolios provides three public pages that present the contents of the database 
 
 The Profiles page shows all the current defined profiles and their associated Projects and Interests:
 
-![](images/profiles-page.png)
+![](images/profiles-page.jpg)
 
 
 ### Sign in and sign up
 
 Click on the "Login" button in the bottom right corner to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signin-page.png)
+![](images/signin-page.jpg)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user.  Currently, this is only a mock-up:
 
-![](images/signup-page.png)
+![](images/signup-page.jpg)
 
+<!---
 ### Home page
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile.  Currently, this is only a mockup:
 
-![](images/home-page.png)
-
+![](images/home-page.jpg)
+--->
 
 ## Developer Guide
 
@@ -74,10 +75,10 @@ $ expo start
 ```
 
 If all goes well, you will be taken to the Expo DevTools on your web browser which is running on a port on your localhost.  To run the app with live reloading you can:
-  • run it on a mobile emulator
-  • run it on your web browser
-  • Send a link to your phone with email.
-  • Scan the QR code with the Expo app (Android) or the Camera app (iOS).
+ - run it on a mobile emulator
+ - run it on your web browser
+ - send a link to your phone with email.
+ - scan the QR code with the Expo app (Android) or the Camera app (iOS).
 
 
 
